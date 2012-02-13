@@ -1,0 +1,5 @@
+E:\Programming\ASP_NET\Patterns\Composite\Composite\obj\x86\Debug\Composite.csprojResolveAssemblyReference.cache
+E:\Programming\ASP_NET\Patterns\Composite\Composite\bin\Debug\Composite.exe
+E:\Programming\ASP_NET\Patterns\Composite\Composite\bin\Debug\Composite.pdb
+E:\Programming\ASP_NET\Patterns\Composite\Composite\obj\x86\Debug\Composite.exe
+E:\Programming\ASP_NET\Patterns\Composite\Composite\obj\x86\Debug\Composite.pdb
